@@ -33,6 +33,7 @@ That's it, you are all set up to use Vercel Kv for your API usage. Head over to 
 
 ## APIs Guide
 Now manage all the CRUD operations with these four simple APIs
+Base URL: [https://task-mgmt-api.vercel.app](https://task-mgmt-api.vercel.app)
 ### Create a Task
 - **Method:** `POST`
 - **Endpoint:** `/api/tasks`
